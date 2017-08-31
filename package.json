@@ -1,0 +1,22 @@
+{
+  "name": "locale-converter",
+  "version": "1.0.0",
+  "description": "generic library to convert data type from one locale to another",
+  "main": "locale-converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danikp/locale-converter.git"
+  },
+  "keywords": [
+    "som"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danikp/locale-converter/issues"
+  },
+  "homepage": "https://github.com/danikp/locale-converter#readme"
+}
