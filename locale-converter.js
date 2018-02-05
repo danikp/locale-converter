@@ -1,5 +1,4 @@
-var localeConverter = (function () {
-
+module.exports = function LocaleConverter () {
     var UNITS = {
         "CENTIARE":{
             name:"CENTIARE",
@@ -691,4 +690,4 @@ var ConversionRequest = function (params) {
         convert: convert,
         UNITS: UNITS
     }
-})();
+}
